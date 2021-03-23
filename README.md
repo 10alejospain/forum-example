@@ -15,8 +15,8 @@ Proyecto personal para implemetar un foro de noticias sobre una pagina ya existe
 Es un codigo que he transformado del que usé originalmente para el sistema de blogs que requería la página de un campamento de verano.
 Puede resultar útil para implementar algo parecido modificando pocas cosas.
 
-##Futuras actualizaciones
+## Futuras actualizaciones
 
-- [x]Añadir login y register
-- [ ]Añadir la zona de administracion del blog
-- [ ]Crear herramienta para subir nuevos post sin tocar el código
+- [x] Añadir login y register
+- [ ] Añadir la zona de administracion del blog
+- [ ] Crear herramienta para subir nuevos post sin tocar el código
